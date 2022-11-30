@@ -1,0 +1,11 @@
+apiVersion: v2
+name: aaguiar-gitlab
+description: sandbox gitlab chart
+type: application
+version: 0.0.1
+appVersion: "1.0"
+
+dependencies:
+  - name: gitlab
+    version: 6.6.0
+    repository: https://charts.gitlab.io/
