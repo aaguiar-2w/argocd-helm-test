@@ -8,4 +8,4 @@ appVersion: "1.0"
 dependencies:
   - name: gitlab
     version: 6.6.0
-    repository: https://charts.gitlab.io/
+    repository: https://charts.gitlab.io
